@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Love Porwal</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From India</h3>
-
+<br></br>
 <img align="right" alt="coding" width="480" src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=love-porwal&label=Profile%20views&color=0e75b6&style=flat" alt="love-porwal" /> </p>
 
