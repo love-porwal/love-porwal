@@ -1,5 +1,3 @@
-<!-- ![POSTER-love-porwal](https://user-images.githubusercontent.com/112820391/225117475-453af1c9-ffcc-4b99-9b83-2cd6c2b9181a.png) -->
-
 
 <h1 align="center">Hi 👋, I'm Love Porwal</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer From India</h3>
