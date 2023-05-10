@@ -11,10 +11,6 @@
 
 - 💬 Ask me about **Vanilla JS | Node.js | Express | MongoDB**
 
-- 🎓 Check out my <a target="_blank" href="https://drive.google.com/file/d/1_n-TupVYWeSQk6TwTIBgaKCShbJrYQVa/view?usp=share_link">Resume</a>
-
-- 🖥️ My <a target="_blank" href="https://love-porwal.github.io/">Portfolio</a> showcases my skills and accomplishments.
-
 - 📫 How to reach me **lluvporwall@gmail.com**
 
 - ⚡ Fun fact **Love to Explore 😛**
