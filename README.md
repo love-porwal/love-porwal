@@ -1,4 +1,4 @@
-![POSTER-love-porwal](https://user-images.githubusercontent.com/112820391/225117475-453af1c9-ffcc-4b99-9b83-2cd6c2b9181a.png)
+<!-- ![POSTER-love-porwal](https://user-images.githubusercontent.com/112820391/225117475-453af1c9-ffcc-4b99-9b83-2cd6c2b9181a.png) -->
 
 
 <h1 align="center">Hi 👋, I'm Love Porwal</h1>
@@ -12,6 +12,10 @@
 - 🌱 I’m currently learning **Node.js | Express | MongoDB**
 
 - 💬 Ask me about **Vanilla JS | Node.js | Express | MongoDB**
+
+- 🎓 Check out my <a target="_blank" href="https://drive.google.com/file/d/1_n-TupVYWeSQk6TwTIBgaKCShbJrYQVa/view?usp=share_link">Resume</a>
+
+- 🖥️ My <a target="_blank" href="https://love-porwal.github.io/">Portfolio</a> showcases my skills and accomplishments.
 
 - 📫 How to reach me **lluvporwall@gmail.com**
 
