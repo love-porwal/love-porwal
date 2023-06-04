@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js | Express | MongoDB**
 
-- 💬 Ask me about **Vanilla JS | Node.js | Express | MongoDB**
+- 💬 Ask me about **Javascript | Node.js | Express | MongoDB **
 
 - 🎓 Check out my <a target="_blank" href="https://drive.google.com/file/d/1_n-TupVYWeSQk6TwTIBgaKCShbJrYQVa/view?usp=share_link">Resume</a>
 
