@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=love-porwal&theme=onedark)](https://github.com/love-porwal/github-profile-trophy)
 <br><br>
 
-<img align="right" alt="coding" width="450" src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="coding" width="460" src ="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🌱 I’m currently working as Full-stack developer at **Masai School**
 
